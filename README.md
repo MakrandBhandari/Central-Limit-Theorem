@@ -1,7 +1,7 @@
 # Central-Limit-Theorem
-Central Limit theorem implimented by using simple python code.
+Central Limit theorem implemented by using simple python code.
 
-Central Limit Theorem states that given a reasonable sample size (usually n >=30), the distribution of the means of the samples drawn from a population follows a normal distribution, even though the population may not necessarily follow the normaldistribution.
+Central Limit Theorem states that given a reasonable sample size (usually n >=30), the distribution of the means of the samples drawn from a population follows a normal distribution, even though the population may not necessarily follow the normal distribution.
 
 Assumptions in the Central Limit theorem are :-
 1) Samples are drawn randomly from population.
